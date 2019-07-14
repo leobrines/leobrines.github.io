@@ -2,7 +2,7 @@
 layout: post
 title:  "Crea tu blog gratis con Jekyll y Github Pages"
 date:   2019-07-13 12:51:21 -0300
-categories: jekyll update
+categories: github pages
 ---
 
 Voy al grano.
