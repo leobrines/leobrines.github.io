@@ -9,7 +9,7 @@ Voy al grano.
 
 ### Primero lo primero: Instalar Jekyll
 
-1. Instalar requisitos:
+1. Instala los requisitos, en Debian 9:
 	* Ruby 2.X.X. 
 		* Instalar: ```sudo apt install ruby```
 		* Version actual: ```ruby --version```
@@ -67,6 +67,8 @@ git push origin master
 
 Listo. Ya con eso puedes acceder al blog básico de Jekyll en https://\<username\>.github.io
 
+[Fuente - GitHub Pages](https://pages.github.com/)
+
 ### Posibles errores
 
 #### Error: Failed to build gem
@@ -92,11 +94,6 @@ GitHub Metadata: No GitHub API authentication could be found.
 ```
 
 Solución: Añade ```github: [metadata]``` en el archivo _config.yml - [fuente](https://github.com/github/pages-gem/issues/399#issuecomment-301827749)
-
-### Aclaraciones
-
-1. Utilizé Debian 9 para el tutorial.
-2. Pueden ver tutoriales en [GitHub Pages](https://pages.github.com/) directamente. Aqui solo muestro otra forma quizás más sencilla y en español de hacerlo
 
 ### ¿Dudas?
 
