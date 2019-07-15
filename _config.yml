@@ -23,6 +23,7 @@ github: [metadata]
 github_username:  leobrines
 #twitter_username:  leobrines
 encoding: "utf-8"
+google_analytics: UA-68152750-2
 
 # Build settings
 markdown: kramdown
