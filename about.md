@@ -35,7 +35,7 @@ Actualmente, trabajo en [Mercadolibre](https://es.wikipedia.org/wiki/MercadoLibr
 #### Personal
 - Tengo 20 años
 - Mantengo una comunidad de CS 1.6
-- Soy programador Jr :p
+- Soy programador junior :p
 - Vivo en **Buenos Aires**
 - Me encanta el CS:GO <3
 - Nada de lo anterior importa, sino cual es **tu esencia :)**
