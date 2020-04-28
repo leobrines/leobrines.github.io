@@ -7,7 +7,7 @@ permalink: /about/
 ### ¿Qué he hecho?
 
 #### Comunidad Counter-Strike
-A los 16 años me uni a una comunidad gamer para desarrollar su pagina web. Luego aprendi a programar plugins para Counter-Strike y los 17 años funde mi propia comunidad. A los 18 años organice mi primer torneo presencial de eSports. Y actualmente a los 19 años, busco nuevas relaciones y aprendizajes en informática o gaming.
+A los 16 años me uni a una comunidad gamer para desarrollar su pagina web. Luego aprendi a programar plugins para Counter-Strike y los 17 años funde mi propia comunidad. A los 18 años organice mi primer torneo presencial de eSports. Y actualmente, busco nuevas relaciones y aprendizajes en informática o gaming.
 
 #### Programación
 Desarrolle bajo el entorno de **NodeJS** una API para la creación de dominios dinámicos, se conecta directamente con DynDNS, utiliza **MongoDB** y Mercadopago. Cree y edite plugins en **Amxmodx** para modificar el clásico juego de Counter Strike 1.6. Conozco sobre el control y colaboración de proyectos en **GitHub**. 
@@ -21,14 +21,22 @@ Tengo experiencia en las siguientes herramientas: **Apache**, **Nginx** y **Expr
 ### Soporte técnico
 Participe en el proyecto “Recambio de PC del Hospital Universitario Austral Pilar 2018”, realizando las siguientes actividades: Creación de imágenes ISO, backup y **restauración de datos**, **instalación de Windows** según los estándares del hospital, reporte del proyecto y **soporte al usuario** post-recambio.
 
+### Mercadolibre
+Actualmente, trabajo en [Mercadolibre](https://es.wikipedia.org/wiki/MercadoLibre). Es mi primer empleo como programados. Estar aqui me ha hecho crecer y aprender diversas tecnologias. Pertenezco al equipo de SRE y nos enfocamos en la vertical de Mercadopago. Tocamos muchas herramientas de AWS como S3, Athena y CloudFront.
+
 ### Otros datos
 
-#### Programas que uso
-- Vim y Git
-- Inkscape
-- Google Drive y Calc
+#### Programas que uso frecuentemente
+- Git
+- Vim
+- Vscode
+- Google Docs
 
 #### Personal
-- Tengo 19 años
+- Tengo 20 años
+- Mantengo una comunidad de CS 1.6
 - Soy Bachiller en Ciencias
+- Soy programador Jr :p
 - Vivo en **Buenos Aires**
+- Me encanta el CS:GO <3
+- Nada de lo anterior importa, sino cual es **tu esencia :)**
