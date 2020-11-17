@@ -22,7 +22,7 @@ Tengo experiencia en las siguientes herramientas: **Apache**, **Nginx** y **Expr
 Participe en el proyecto “Recambio de PC del Hospital Universitario Austral Pilar 2018”, realizando las siguientes actividades: Creación de imágenes ISO, backup y **restauración de datos**, **instalación de Windows** según los estándares del hospital, reporte del proyecto y **soporte al usuario** post-recambio.
 
 ### Mercadolibre
-Actualmente, trabajo en [Mercadolibre](https://es.wikipedia.org/wiki/MercadoLibre). Es mi primer empleo como programados. Estar aqui me ha hecho crecer y aprender diversas tecnologias. Pertenezco al equipo de SRE y nos enfocamos en la vertical de Mercadopago. Tocamos muchas herramientas de AWS como S3, Athena y CloudFront.
+Actualmente, trabajo en [Mercadolibre](https://es.wikipedia.org/wiki/MercadoLibre). Es mi primer empleo como programador. Estar aqui me ha hecho crecer y aprender diversas tecnologias. Pertenezco al equipo de SRE y nos enfocamos en la vertical de Mercadopago. Tocamos muchas herramientas de AWS como S3, Athena y CloudFront.
 
 ### Otros datos
 
@@ -31,11 +31,13 @@ Actualmente, trabajo en [Mercadolibre](https://es.wikipedia.org/wiki/MercadoLibr
 - Vim
 - Vscode
 - Google Docs
+- IntelliJ
 
 #### Personal
 - Tengo 20 años
-- Mantengo una comunidad de CS 1.6
-- Soy programador junior :p
+- Realizo torneos de CS:GO los findes
+- Trabaje de mesero en un bar una vez asdghj
+- Soy programador junior
 - Vivo en **Buenos Aires**
 - Me encanta el CS:GO <3
 - Nada de lo anterior importa, sino cual es **tu esencia :)**
