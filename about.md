@@ -21,8 +21,10 @@ Tengo experiencia en las siguientes herramientas: **Apache**, **Nginx** y **Expr
 ### Soporte técnico
 Participe en el proyecto “Recambio de PC del Hospital Universitario Austral Pilar 2018”, realizando las siguientes actividades: Creación de imágenes ISO, backup y **restauración de datos**, **instalación de Windows** según los estándares del hospital, reporte del proyecto y **soporte al usuario** post-recambio.
 
-### Mercadolibre
-Actualmente, trabajo en [Mercadolibre](https://es.wikipedia.org/wiki/MercadoLibre). Es mi primer empleo como programador. Estar aqui me ha hecho crecer y aprender diversas tecnologias. Pertenezco al equipo de SRE y nos enfocamos en la vertical de Mercadopago. Tocamos muchas herramientas de AWS como S3, Athena y CloudFront.
+### Mercadolibre (actual)
+Actualmente, trabajo en [Mercadolibre](https://es.wikipedia.org/wiki/MercadoLibre). Es mi primer empleo como programador. Estar aqui me ha hecho crecer y aprender diversas tecnologias. Perteneci al equipo de SRE y nos enfocamos en la vertical de Mercadopago. Tocamos muchas herramientas de AWS como S3, Athena y CloudFront.
+
+El equipo de SRE creció y se transformó en Platform Security. Nos encargamos de mejorar la seguridad de la plataforma implementando soluciones world-class, teniendo responsabilidad core en la compañia. Ascendi a SSr gracias a tener más reponsabilidad de nuestras apps y poder estar más metido en el diseño del software, es un mundo grandisimo que aún sigo aprendiendo mucho.
 
 ### Otros datos
 
@@ -34,10 +36,13 @@ Actualmente, trabajo en [Mercadolibre](https://es.wikipedia.org/wiki/MercadoLibr
 - IntelliJ
 
 #### Personal
-- Tengo 20 años
-- Realizo torneos de CS:GO los findes
+- Tengo 21 años
+- Realizo torneos de CS:GO los findes (@proplayers.csgo)
 - Trabaje de mesero en un bar una vez asdghj
-- Soy programador junior
+- Soy programador SSr
 - Vivo en **Buenos Aires**
 - Me encanta el CS:GO <3
 - Nada de lo anterior importa, sino cual es **tu esencia :)**
+
+
+***Vamos a morir y tenemos que tomar decisiones en base a ello***
