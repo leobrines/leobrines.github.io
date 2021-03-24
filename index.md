@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sobre mi
-permalink: /
 ---
 
 ### ¿Qué he hecho?
