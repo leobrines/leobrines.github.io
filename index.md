@@ -21,9 +21,12 @@ Tengo experiencia en las siguientes herramientas: **Apache**, **Nginx** y **Expr
 Participe en el proyecto “Recambio de PC del Hospital Universitario Austral Pilar 2018”, realizando las siguientes actividades: Creación de imágenes ISO, backup y **restauración de datos**, **instalación de Windows** según los estándares del hospital, reporte del proyecto y **soporte al usuario** post-recambio.
 
 ### Mercadolibre (actual)
-Actualmente, trabajo en [Mercadolibre](https://es.wikipedia.org/wiki/MercadoLibre). Es mi primer empleo como programador. Estar aqui me ha hecho crecer muchisimo, aprender diversas tecnologias y formas de trabajo. Perteneci al equipo de SRE y usamos muchas herramientas de AWS como S3, Athena y CloudFront. Todo esto en un contexto de microservicios, problemas de concurrencia y escalabilidad. 
+Trabaje en [Mercadolibre](https://es.wikipedia.org/wiki/MercadoLibre). Fue mi primer empleo como desarrollador de software. Aprendi diversas tecnologias y formas de trabajo. Perteneci al equipo de SRE y usamos muchas herramientas de AWS como S3, Athena y CloudFront. Todo esto en un contexto de microservicios, con muchos problemas de concurrencia y escalabilidad. 
 
-El equipo de SRE creció y se transformó en Platform Security. Ahora, nos encargamos de mejorar la seguridad de la plataforma implementando soluciones world-class, teniendo responsabilidad core en la compañia. Ascendi a SSr y ahora tengo mas reponsabilidad de nuestras apps y crecer más en el diseño de software, es un mundo grandisimo que aún sigo aprendiendo mucho.
+El equipo de SRE creció y se transformó en Platform Security. Nos encargamos de mejorar la seguridad de la plataforma cross implementando soluciones world-class, teniendo responsabilidad core en la compañia.
+
+### Kavak
+Recientemente empece a trabajar en Kavak continuando mi crecimiento como desarrollador de backend... 
 
 ### Otros datos
 
