@@ -35,13 +35,12 @@ El equipo de SRE creció y se transformó en Platform Security. Ahora, nos encar
 - IntelliJ
 
 #### Personal
-- Tengo 21 años
-- Realizo torneos de CS:GO los findes (@proplayers.csgo)
-- Trabaje de mesero en un bar una vez asdghj
+- Tengo 22 años
+- Realizo torneos de CS:GO (IG: proplayers_csgo)
+- Trabaje de mesero en un bar una vez
 - Soy programador SSr
 - Vivo en **Buenos Aires**
-- Me encanta el CS:GO <3
-- Nada de lo anterior importa, sino cual es **tu esencia :)**
+- Me encanta jugar al CS:GO y al LOL
+- Nada de lo anterior importa, solo **tu esencia**
 
-
-***Vamos a morir y tenemos que tomar decisiones en base a ello***
+***∆qui y ahora***
