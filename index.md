@@ -6,7 +6,7 @@ title: Sobre mi
 ### ¿Qué he hecho?
 
 #### Comunidad Counter-Strike
-A los 16 años me uni a una comunidad gamer para desarrollar su pagina web. Luego aprendi a programar plugins para Counter-Strike y los 17 años funde mi propia comunidad. A los 18 años organice mi primer torneo presencial de eSports. Y actualmente, busco nuevas relaciones y aprendizajes en informática o gaming.
+A los 16 años me uni a una comunidad gamer para desarrollar su pagina web. Luego aprendi a programar plugins para Counter-Strike y los 17 años funde mi propia comunidad. A los 18 años organice mi primer torneo presencial de eSports en Argentina
 
 #### Programación
 Desarrolle bajo el entorno de **NodeJS** una API para la creación de dominios dinámicos, se conecta directamente con DynDNS, utiliza **MongoDB** y Mercadopago. Cree y edite plugins en **Amxmodx** para modificar el clásico juego de Counter Strike 1.6. Conozco sobre el control y colaboración de proyectos en **GitHub**. 
@@ -41,8 +41,8 @@ Recientemente empece a trabajar en Kavak continuando mi crecimiento como desarro
 - Tengo 22 años
 - Realizo torneos de CS:GO (IG: proplayers_csgo)
 - Trabaje de mesero en un bar una vez
-- Soy programador SSr
-- Vivo en **Buenos Aires**
+- Me dedico al desarrollo de sofware de backend
+- A los 17 me mude a Buenos Aires
 - Me encanta jugar al CS:GO y al LOL
 - Nada de lo anterior importa, solo **tu esencia**
 
