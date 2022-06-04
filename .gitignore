@@ -1,5 +1,3 @@
-_site
 *.swp
 *.swo
-Gemfile.lock
-*.gem
+.idea
