@@ -25,13 +25,12 @@
             font-font: monospace, auto;
         }
     </style>
-    <script>
+    <script >
         function generateDivWithT3xtHTML(text) {
             return `
                 <div>
                     <p>${text}</p>
-                </div>
-            `
+                </div>`
         }
 
         function generateManyDivWithT3xtHTML(textList) {
@@ -50,9 +49,8 @@
             ]
 
             document.body.innerHTML += generateManyDivWithT3xtHTML(phrases)
+            console.log("Hello human <3")
         }
-
-        console.log("Hello human <3")
     </script>
 </head>
 <body>
