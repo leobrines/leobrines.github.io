@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Nota #2"
+title:  "Note #2"
 comments: false
 ---
-Stay deep
+Stay deep, no words
 
 <!--more-->
