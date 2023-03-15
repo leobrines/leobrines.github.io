@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Nota #1"
+comments: false
+---
+Lo que vivimos ya pasó y todo el tiempo es una hoja en blanco con la oportunidad de escribir la historia que queremos para nosotros
+
+<!--more-->
