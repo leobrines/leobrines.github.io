@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Note #1"
+comments: false
+---
+All the time is a blank sheet with the opportunity to write the story we want for ourselves.
+
+<!--more-->
