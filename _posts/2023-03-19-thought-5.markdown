@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Note #5"
+comments: false
+---
+teach me\
+like a child\
+make it fun\
+I'll follow you\
+and I'll never forget it
+
+<!--more-->
