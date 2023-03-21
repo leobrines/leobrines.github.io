@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Note #6"
+comments: false
+---
+at any moment we can die
+
+<!--more-->
