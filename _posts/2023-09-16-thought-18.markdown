@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Note #18"
+comments:
+---
+if I define you I limit you
+
+<!--more-->
+
