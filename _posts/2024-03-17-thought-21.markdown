@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Note #21"
+comments:
+---
+"the true creator is necessity\
+who is the mother of our invention"
+
+<!--more-->
